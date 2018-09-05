@@ -1,0 +1,6 @@
+# Big O
+In industry, big O is considered as same as big-theta. 
+
+# Best case, worst case and average case
+
+
