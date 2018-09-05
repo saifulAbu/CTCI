@@ -2,5 +2,8 @@
 In industry, big O is considered as same as big-theta. 
 
 # Best case, worst case and average case
+Input is such that the algorithm requires minimum time to deal with it.
+Worst case, input is such that the algorithm requires most amount of time.
+Average case, average runtime for all the cases except worst and best.
 
 
