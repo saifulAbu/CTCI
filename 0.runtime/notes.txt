@@ -6,4 +6,13 @@ Input is such that the algorithm requires minimum time to deal with it.
 Worst case, input is such that the algorithm requires most amount of time.
 Average case, average runtime for all the cases except worst and best.
 
+# space complexity
+how much space is needed for running an algorithm.
+def f(n)
+	if n = 0 return 1
+	else n + f(n-1)
+end
+
+the above algorithm requires O(n) space as each recursive call holds up some memory.
+
 
