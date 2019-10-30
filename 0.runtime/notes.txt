@@ -3,8 +3,11 @@ In industry, big O is considered as same as big-theta.
 
 # Best case, worst case and average case
 Input is such that the algorithm requires minimum time to deal with it.
+Quick sort: if input elements are all the same. the algorithm traverses the elements just once. Hence O(n).
+
 Worst case, input is such that the algorithm requires most amount of time.
 Average case, average runtime for all the cases except worst and best.
+Quick sort: if input is sorted in reverse order and the first element is picked as the pivot. Hence O(n * n)
 
 # space complexity
 how much space is needed for running an algorithm.
