@@ -14,11 +14,5 @@ def is_permutation(str1, str2)
   end
   return true
 end
-
-
 puts is_permutation("abc", "cab")
 puts is_permutation("abcd", "abce")
-
-
-
-
